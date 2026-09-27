@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "properties": {"nom": "Abomey-Calavi", "risque_2025": "Élevé", "risque_2040": "Très élevé"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.345,6.430],[2.365,6.430],[2.365,6.450],[2.345,6.450],[2.345,6.430]]]}},
+    {"type": "Feature", "properties": {"nom": "Akassato", "risque_2025": "Moyen", "risque_2040": "Élevé"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.325,6.430],[2.345,6.430],[2.345,6.450],[2.325,6.450],[2.325,6.430]]]}},
+    {"type": "Feature", "properties": {"nom": "Godomey", "risque_2025": "Très élevé", "risque_2040": "Très élevé"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.345,6.390],[2.370,6.390],[2.370,6.415],[2.345,6.415],[2.345,6.390]]]}},
+    {"type": "Feature", "properties": {"nom": "Golo-Djigbé", "risque_2025": "Faible", "risque_2040": "Moyen"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.400,6.450],[2.430,6.450],[2.430,6.480],[2.400,6.480],[2.400,6.450]]]}},
+    {"type": "Feature", "properties": {"nom": "Hêvié", "risque_2025": "Moyen", "risque_2040": "Moyen"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.300,6.400],[2.325,6.400],[2.325,6.425],[2.300,6.425],[2.300,6.400]]]}},
+    {"type": "Feature", "properties": {"nom": "Kpanroun", "risque_2025": "Faible", "risque_2040": "Faible"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.370,6.460],[2.400,6.460],[2.400,6.485],[2.370,6.485],[2.370,6.460]]]}},
+    {"type": "Feature", "properties": {"nom": "Ouèdo", "risque_2025": "Faible", "risque_2040": "Moyen"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.310,6.360],[2.340,6.360],[2.340,6.390],[2.310,6.390],[2.310,6.360]]]}},
+    {"type": "Feature", "properties": {"nom": "Togba", "risque_2025": "Moyen", "risque_2040": "Élevé"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.365,6.435],[2.390,6.435],[2.390,6.460],[2.365,6.460],[2.365,6.435]]]}},
+    {"type": "Feature", "properties": {"nom": "Zinvié", "risque_2025": "Faible", "risque_2040": "Faible"},
+     "geometry": {"type": "Polygon", "coordinates": [[[2.280,6.440],[2.310,6.440],[2.310,6.470],[2.280,6.470],[2.280,6.440]]]}}
+  ]
+}
