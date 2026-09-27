@@ -1,4 +1,4 @@
-# Plateforme Web-SIG — Susceptibilité aux inondations à Abomey-Calavi
+# Plateforme Cartographique — Susceptibilité aux inondations urbaines dans la commune d'Abomey-Calavi
 
 Prototype en 3 phases :
 1. Interface Web-SIG interactive (Streamlit + Folium)
